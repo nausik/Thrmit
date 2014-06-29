@@ -20,11 +20,3 @@ Thrmit
 Диаграмма десктопного приложения
 ----------------------------------
 ![class diagram](http://i.imgur.com/HKd6faK.jpg "Class diagramm")
-
-Авторы
-----------------------------------
-[Артём Барбинягра, НТУУ "КПИ", ФПМ, КМ-11](https://github.com/nausik)
-
-[Александр Гончар, НТУУ "КПИ", ФПМ, КМ-12](https://github.com/rachnog)
-
-[Владислав Борисенко, НТУУ "КПИ", ФПМ, КМ-12](https://github.com/flyingpirate)
